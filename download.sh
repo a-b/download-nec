@@ -15,8 +15,6 @@ function download_page() {
 }
 
 function download_nec_pages() {
-
-
   for (( p=$start_page; p <= $end_page; p++ )); do
     printf "Downloading page $p of $end_page size: "
     download_page "$p"
