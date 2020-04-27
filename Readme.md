@@ -1,6 +1,6 @@
 # Prerequirements
 
-Imagemagic library `convert` command shoulud be available in PATH. On Mac Os you can install if via HomeBrew `brew install imagemagic`
+Imagemagic library `convert` command shoulud be available in PATH. On Mac Os you can install if via [HomeBrew `brew install imagemagic`](https://formulae.brew.sh/formula/imagemagick#default)
 
 # Run
 
